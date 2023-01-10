@@ -1,0 +1,14 @@
+Assignment for 10th Jan 2023:
+
+1. Update the readme file; 
+2. Create a components folder within src; DONE
+3. Create a views folder within src; DONE
+4. Create a home component within the views folder;
+5. Create a to-dos list component within the component folder;
+6. Create a to-do item component within the component folder;
+7. Export the to-do list component within the home component;
+8. And finally, export the to-do item component within the to-do list component;
+9. Create a repository called "To-Do list"; DONE
+10. Create a branch (Mayaka-Dev);
+11. Checkout to created branch;
+12. Create a pull request????
